@@ -1,6 +1,6 @@
 # Codes to run inertial particles in 2D turbulence
 --- 
-**Uses pseudo-spectral codes and 6th order b-spline interpolation with RK4 time stepping**
+**Uses pseudo-spectral codes and 6th order [b-spline interpolation](https://epubs.siam.org/doi/epdf/10.1137/110849018) with RK4 time stepping**
 
 **Requires CUPY to run** 
 
